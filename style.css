@@ -1,0 +1,9 @@
+.image{
+    background-image: url(./happy-new-year-2023.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.main{
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
